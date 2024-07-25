@@ -127,6 +127,7 @@ a{
     background-color: black;
 }
 
+
 .img1{
     left: 60%;
     position: absolute;
@@ -136,8 +137,6 @@ a{
     position: absolute;
     left: 5%;
     top: 5%;
-    width: 100px;
-    height: 100px;
 }
 
 h1{
@@ -157,7 +156,13 @@ h1{
 }
 
 
-
+h3{
+    position: absolute;
+    left: 8.5%;
+    top: 20%;
+    transform: rotate(45deg);
+    color: white;
+}
 
 
 
